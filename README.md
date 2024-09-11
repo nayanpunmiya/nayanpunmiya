@@ -1,3 +1,4 @@
+![logo]("C:\Users\punmi\Downloads\Make your README.png")
 <h1 align="center">Hi 👋, I'm Nayan Punamiya</h1>
 <h3 align="center">A fervent Computer Science Engineer from India</h3>
 
