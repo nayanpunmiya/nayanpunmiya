@@ -1,4 +1,6 @@
-![logo]("![image](https://github.com/user-attachments/assets/b009d0a9-5dfd-4d07-bf36-51e8074917e3)")
+![logo](![image](https://github.com/user-attachments/assets/3ff63923-aad7-42f5-96b1-e771b991e22f))
+
+
 <h1 align="center">Hi 👋, I'm Nayan Punamiya</h1>
 <h3 align="center">A fervent Computer Science Engineer from India</h3>
 
