@@ -1,4 +1,4 @@
-![logo](![image](https://github.com/user-attachments/assets/3ff63923-aad7-42f5-96b1-e771b991e22f))
+![logo](https://github.com/nayanpunmiya/nayanpunmiya/blob/main/Make%20your%20README.png?raw=true)
 
 
 <h1 align="center">Hi 👋, I'm Nayan Punamiya</h1>
