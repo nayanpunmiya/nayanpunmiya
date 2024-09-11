@@ -1,4 +1,4 @@
-![logo]("C:\Users\punmi\Downloads\Make your README.png")
+![logo]("![image](https://github.com/user-attachments/assets/b009d0a9-5dfd-4d07-bf36-51e8074917e3)")
 <h1 align="center">Hi 👋, I'm Nayan Punamiya</h1>
 <h3 align="center">A fervent Computer Science Engineer from India</h3>
 
