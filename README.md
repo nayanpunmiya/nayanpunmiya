@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **punmiyanayan@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1GFAczVKEEDUhu8_h6aHP6T0xJyHtLg13/edit?usp=drive_link&ouid=104814200948522809032&rtpof=true&sd=true](https://docs.google.com/document/d/1GFAczVKEEDUhu8_h6aHP6T0xJyHtLg13/edit?usp=drive_link&ouid=104814200948522809032&rtpof=true&sd=true)
+- 📄 Know about my experiences https://docs.google.com/document/d/1uV_ryzX6iFNzNmzoLJAKX8ryRTguhr2d/edit?usp=sharing&ouid=104814200948522809032&rtpof=true&sd=true
 
 - ⚡ Fun fact **I once tried to debug a code issue by talking to my computer, turns out, it wasn't much of a listener!**
 
